@@ -7,7 +7,7 @@
 #include <stdarg.h>
 #include <stddef.h>
 #include <setjmp.h>
-//#include <cmocka.h>
+#include <cmocka.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include "pthread.h"
